@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "558014837851",
+    "firebase_url": "https://chat-fatec.firebaseio.com",
+    "project_id": "chat-fatec",
+    "storage_bucket": "chat-fatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558014837851:android:2d1c5eed736fde1473bb7e",
+        "android_client_info": {
+          "package_name": "com.example.chat_fatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558014837851-9kpn5dqa2pqufi7r1ipejllrr01mem4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_fatec",
+            "certificate_hash": "b87b8d45eb64257a1a96ee8dcb3f9ddf91f7fa3a"
+          }
+        },
+        {
+          "client_id": "558014837851-3p5bg4up7f08mgbdoajv4bdhnh5ngnfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_fatec",
+            "certificate_hash": "56c208d40fb3615641a5cf43ce6322350200417b"
+          }
+        },
+        {
+          "client_id": "558014837851-tv646kim8qkpv3armc9sfksl36kahrh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_pdTpFE-ftnuais1adnwK1R9AwQmbZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558014837851-tv646kim8qkpv3armc9sfksl36kahrh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
